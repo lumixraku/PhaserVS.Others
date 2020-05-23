@@ -1,0 +1,5 @@
+{
+	"name": "stats",
+	"compilerVersion": "5.3.5",
+	"typings": "typings/stats.d.ts"	
+}

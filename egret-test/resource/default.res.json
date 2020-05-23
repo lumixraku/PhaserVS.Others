@@ -1,0 +1,36 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,test,egret-group",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/test.png",
+			"type": "image",
+			"name": "test"
+		},
+		{
+			"url": "assets/egret-group.json",
+			"type": "sheet",
+			"name": "egret-group",
+			"subkeys": "EgretAndroid,EgretDragonBones,EgretEngine,EgretFeather,EgretInspector,EgretLark,EgretRuntime,EgretVS,EgretWing,EgretiOSsupport,TSConversion,TextureMerger"
+		}
+	]
+}

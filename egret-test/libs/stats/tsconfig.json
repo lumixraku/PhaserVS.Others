@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"noImplicitAny": false,
+		"sourceMap": false,
+		"declaration": false,
+		"allowJs": true,
+		"outFile": "bin/stats.js"
+	},
+	"include": [
+		"src"
+	]
+}
